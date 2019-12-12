@@ -1,0 +1,11 @@
+C:\code\abm_test\abm2\abm2\obj\Debug\netcoreapp3.1\abm2.csprojAssemblyReference.cache
+C:\code\abm_test\abm2\abm2\obj\Debug\netcoreapp3.1\abm2.AssemblyInfoInputs.cache
+C:\code\abm_test\abm2\abm2\obj\Debug\netcoreapp3.1\abm2.AssemblyInfo.cs
+C:\code\abm_test\abm2\abm2\bin\Debug\netcoreapp3.1\abm2.exe
+C:\code\abm_test\abm2\abm2\bin\Debug\netcoreapp3.1\abm2.deps.json
+C:\code\abm_test\abm2\abm2\bin\Debug\netcoreapp3.1\abm2.runtimeconfig.json
+C:\code\abm_test\abm2\abm2\bin\Debug\netcoreapp3.1\abm2.runtimeconfig.dev.json
+C:\code\abm_test\abm2\abm2\bin\Debug\netcoreapp3.1\abm2.dll
+C:\code\abm_test\abm2\abm2\bin\Debug\netcoreapp3.1\abm2.pdb
+C:\code\abm_test\abm2\abm2\obj\Debug\netcoreapp3.1\abm2.dll
+C:\code\abm_test\abm2\abm2\obj\Debug\netcoreapp3.1\abm2.pdb
